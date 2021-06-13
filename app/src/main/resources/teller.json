@@ -18,6 +18,24 @@
     "lastOpenedOn": "lastOpenedOn"
   },
   {
+    "code": "varun",
+    "password": "varun password1",
+    "cashdrawLimit": 1000,
+    "tellerAccountIdentifier": "varun tellerAccountIdentifier1",
+    "vaultAccountIdentifier": "vaultAccountIdentifier varun",
+    "chequesReceivableAccount": "chequesReceivableAccount varun",
+    "cashOverShortAccount": "cashOverShortAccount varun",
+    "denominationRequired": true,
+    "assignedEmployee": "assignedEmployeevarun",
+    "state": "PAUSED",
+    "createdBy": "createdBy",
+    "createdOn": "createdOn",
+    "lastModifiedBy": "lastModifiedBy",
+    "lastModifiedOn": "lastModifiedOn",
+    "lastOpenedBy": "lastOpenedBy",
+    "lastOpenedOn": "lastOpenedOn"
+  },
+  {
     "code": "code2",
     "password": "password2",
     "cashdrawLimit": 1500,
